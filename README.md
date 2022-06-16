@@ -2,8 +2,6 @@
 
 A walkthrough project developing JavaScript skills for the Full Stack Software Development Diploma at Code Institute (PP2). 
 
-Welcome to the live site here: [go](https://fmstacco.github.io/love-maths/){:target="_blank" rel="noopener"}
-
 Welcome to the live site here: <a href="https://fmstacco.github.io/love-maths/" target="_blank">Love Maths</a>
 
 
